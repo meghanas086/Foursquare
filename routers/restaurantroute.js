@@ -5,7 +5,7 @@ const {
   findRestaurantByName,
 
   findRestaurantsByCity, 
-} = require("../controller/restaurantcontroller");
+} = require("../controller/restaurantController");
 
 const router = express.Router();
 
